@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="facebook_app_id">1030680453688984</string>
+    <string name="log_in_result">You had successfully log in!</string>
+</resources>
